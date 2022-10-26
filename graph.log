@@ -1,0 +1,30 @@
+* c8ae506 Agregana 2 parrafos
+*   a953d64 Resolviendo conflicto en estaciones del anno y fechas de inicio
+|\  
+| * e7fbdee Resolviendo conflicto en estaciones del anno y fechas de inicio
+| * f986b1a Resolviendo conflicto en estaciones del anno con fecha inico
+| * 8d70b87 nuevo mensaje para el último commit
+* | a3c55a5 Agregando estaciones del anno con fecha inico
+|/  
+* c5d9e14 Resolviendo conflicto merge main-html en el documento index.html
+*   96a3ba8 Merge branch 'html'
+|\  
+| * 236d37f Agregar info ol  en html
+* | 5e39a01 Agregar info en html
+* |   bc9a49b Merge branch 'js'
+|\ \  
+| * | 9ae9b33 Creando js
+| * | d6718e9 Creando js
+| |/  
+* / 1aa21d0 Creando style
+|/  
+* 977d3a5 Colocar son  Achivos index.html
+* 0c25e01 Creando Achivos index.html
+* 2ab8d84 Ignorando .exe
+* 4ba747f cambio de contenido .md
+* 7743177 Creando Licensia de Repositorio
+* c519699 nuevo informacion de Rene
+* 0180688 nueva informacion de Rene
+* 513dd8b Agregando mas contenido al README.md
+* a641901 agregado  contenido inical al REAME
+* 2fdde06 mensaje descriptivo  primero

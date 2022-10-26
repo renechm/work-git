@@ -1,0 +1,146 @@
+commit c8ae5064f2f9031071eb664195b4b0d2ee51d9b4
+Author: ReneChM <r_chinchilla@yahoo.com>
+Date:   Tue Oct 25 11:17:56 2022 -0600
+
+    Agregana 2 parrafos
+
+commit a953d641aceec60f8c507d32d00e2370f412e3fc
+Merge: a3c55a5 e7fbdee
+Author: ReneChM <r_chinchilla@yahoo.com>
+Date:   Fri Oct 21 15:28:26 2022 -0600
+
+    Resolviendo conflicto en estaciones del anno y fechas de inicio
+
+commit e7fbdeef293d5ceb1f573e70d866232005a10248
+Author: ReneChM <r_chinchilla@yahoo.com>
+Date:   Fri Oct 21 15:23:59 2022 -0600
+
+    Resolviendo conflicto en estaciones del anno y fechas de inicio
+
+commit f986b1a98661cfc98efd60c11e8f9c84bfc05a26
+Author: ReneChM <r_chinchilla@yahoo.com>
+Date:   Fri Oct 21 15:06:07 2022 -0600
+
+    Resolviendo conflicto en estaciones del anno con fecha inico
+
+commit a3c55a52153e2fde9bdf12d4af923fab400f5722
+Author: ReneChM <r_chinchilla@yahoo.com>
+Date:   Wed Oct 19 17:43:02 2022 -0600
+
+    Agregando estaciones del anno con fecha inico
+
+commit 8d70b87ce0b31ae3b1b984c8bb3c997a4dcfaa75
+Author: ReneChM <r_chinchilla@yahoo.com>
+Date:   Wed Oct 19 17:43:02 2022 -0600
+
+    nuevo mensaje para el último commit
+
+commit c5d9e145f8e6f8710394816ef0bc8eb125664649
+Author: ReneChM <r_chinchilla@yahoo.com>
+Date:   Wed Oct 19 16:41:47 2022 -0600
+
+    Resolviendo conflicto merge main-html en el documento index.html
+
+commit 96a3ba806b0b9315c52896061f1f859b5ddf7b25
+Merge: 5e39a01 236d37f
+Author: ReneChM <r_chinchilla@yahoo.com>
+Date:   Wed Oct 19 15:24:17 2022 -0600
+
+    Merge branch 'html'
+
+commit 236d37f9e4e77501e985f886311d9721aae679e1
+Author: ReneChM <r_chinchilla@yahoo.com>
+Date:   Wed Oct 19 15:22:46 2022 -0600
+
+    Agregar info ol  en html
+
+commit 5e39a01864be8a803ec9983195e47116938a13da
+Author: ReneChM <r_chinchilla@yahoo.com>
+Date:   Wed Oct 19 13:48:54 2022 -0600
+
+    Agregar info en html
+
+commit bc9a49bce0fb1547a70a69c86699c7ed0f79a0e5
+Merge: 1aa21d0 9ae9b33
+Author: ReneChM <r_chinchilla@yahoo.com>
+Date:   Wed Oct 19 11:14:24 2022 -0600
+
+    Merge branch 'js'
+
+commit 9ae9b33cbfcea255e0ab3614f62c5064911fc5aa
+Author: ReneChM <r_chinchilla@yahoo.com>
+Date:   Wed Oct 19 11:06:15 2022 -0600
+
+    Creando js
+
+commit d6718e9628cd338b0fec5832e11cb63782ac38f2
+Author: ReneChM <r_chinchilla@yahoo.com>
+Date:   Wed Oct 19 10:30:55 2022 -0600
+
+    Creando js
+
+commit 1aa21d0a801c0bc4126f5471e9e8eeb0e221ee68
+Author: ReneChM <r_chinchilla@yahoo.com>
+Date:   Wed Oct 19 09:48:03 2022 -0600
+
+    Creando style
+
+commit 977d3a58cc2f5bf1e0cdc605e6dffb60e5a8aeeb
+Author: ReneChM <r_chinchilla@yahoo.com>
+Date:   Wed Oct 19 09:03:14 2022 -0600
+
+    Colocar son  Achivos index.html
+
+commit 0c25e0117b39fc0a1b1b0b384e9df8ced66f7b83
+Author: ReneChM <r_chinchilla@yahoo.com>
+Date:   Tue Oct 18 12:12:36 2022 -0600
+
+    Creando Achivos index.html
+
+commit 2ab8d84440003ca4e0a276ae5389d9511acddc78
+Author: ReneChM <r_chinchilla@yahoo.com>
+Date:   Mon Oct 17 12:24:47 2022 -0600
+
+    Ignorando .exe
+
+commit 4ba747fbdb5a8cbf16fec0e8745aa952ff6537a4
+Author: ReneChM <r_chinchilla@yahoo.com>
+Date:   Thu Oct 13 13:44:00 2022 -0600
+
+    cambio de contenido .md
+
+commit 77431771abfd2dbcd1409c61d3ed1a7e6f201f1d
+Author: renechm <39425914+renechm@users.noreply.github.com>
+Date:   Wed Oct 12 18:21:21 2022 -0600
+
+    Creando Licensia de Repositorio
+
+commit c5196997f7b1002186f1419928f7084fdd4cc188
+Author: ReneChM <r_chinchilla@yahoo.com>
+Date:   Wed Oct 12 15:39:47 2022 -0600
+
+    nuevo informacion de Rene
+
+commit 0180688b180021e19958d001da142bb084ac04fa
+Author: ReneChM <r_chinchilla@yahoo.com>
+Date:   Tue Oct 11 17:57:19 2022 -0600
+
+    nueva informacion de Rene
+
+commit 513dd8b8871a95b137f3973056796722879484b6
+Author: ReneChM <r_chinchilla@yahoo.com>
+Date:   Tue Oct 11 11:42:04 2022 -0600
+
+    Agregando mas contenido al README.md
+
+commit a6419014af34dedfcbac7b874f9659a1592dbcca
+Author: ReneChM <r_chinchilla@yahoo.com>
+Date:   Fri Oct 7 16:49:30 2022 -0600
+
+    agregado  contenido inical al REAME
+
+commit 2fdde0608661e434260ed2cb739a52984e0a3dc0
+Author: ReneChM <r_chinchilla@yahoo.com>
+Date:   Fri Oct 7 16:28:48 2022 -0600
+
+    mensaje descriptivo  primero
